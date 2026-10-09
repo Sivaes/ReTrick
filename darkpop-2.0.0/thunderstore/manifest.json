@@ -1,0 +1,7 @@
+{
+  "name": "ReSkate_DarkPop",
+  "version_number": "0.1.0",
+  "website_url": "https://github.com/Sivaes/reskate-dark-pop",
+  "description": "Dark Pop for ReSkate (with Revert Boost 2.0): catch a flip trick dark, press D-pad Left, Down or Right in the air, land it still dark, and the game pops you back up. Any trick, any height. No Bail can stay off. Offline use.",
+  "dependencies": []
+}
